@@ -1,11 +1,5 @@
 # 💫 About Me:
-🌟 **As a passionate marketing professional**, I’ve worked on personal projects that have deepened my understanding of company strategies and customer behavior. My digital marketing expertise includes:
-
-📈 Creating online advertising campaigns  
-📊 Analyzing data  
-✍️ Copywriting  
-🎨 UX/UI design  
-🔍 Search engine optimization (SEO)  
+🌟 **As a passionate marketing professional**, I’ve worked on personal projects that have deepened my understanding of company strategies and customer behavior.
 
 🎓 **Master's degree in Marketing & Commercial Engineering**, equipping me with advanced knowledge and practical skills. I’m also driven by the **impact of IT on marketing**, constantly pursuing innovative solutions.
 
