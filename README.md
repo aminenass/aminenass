@@ -1,5 +1,18 @@
 # 💫 About Me:
-🚀 Passionate about marketing, design, and coding<br>💡 Exploring ideas and building innovative solutions<br>⚡ Always learning and embracing new challenges<br>🎯 Bridging creativity with technology
+🌟 **As a passionate marketing professional**, I’ve worked on personal projects that have deepened my understanding of company strategies and customer behavior. My digital marketing expertise includes:
+
+📈 Creating online advertising campaigns  
+📊 Analyzing data  
+✍️ Copywriting  
+🎨 UX/UI design  
+🔍 Search engine optimization (SEO)  
+
+🎓 **Master's degree in Marketing & Commercial Engineering**, equipping me with advanced knowledge and practical skills. I’m also driven by the **impact of IT on marketing**, constantly pursuing innovative solutions.
+
+💻 **Coder** | **Tech Enthusiast**  
+🔍 Exploring coding as a powerful tool to enhance marketing strategies and data-driven decision-making.
+🌍 Always learning, expanding my global perspective to create culturally aware and impactful campaigns.
+
 
 
 ## 🌐 Socials:
