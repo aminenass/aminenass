@@ -2,7 +2,8 @@
 🚀 Passionate about marketing, design, and coding<br>💡 Exploring ideas and building innovative solutions<br>⚡ Always learning and embracing new challenges<br>🎯 Bridging creativity with technology
 Personal website : https://medaminenassim.netlify.app/
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/med-amine-nassim/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@m.nassim152) [![Personal website](https://img.shields.io/badge/Personal website-Click_Here-blue?style=flat)]([https://www.playstation.com](https://medaminenassim.netlify.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/med-amine-nassim/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@m.nassim152) [![Personal website](https://img.shields.io/badge/Website-Visit-blue)]([https://example.com](https://medaminenassim.netlify.app/))
+
 
 
 
