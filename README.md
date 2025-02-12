@@ -10,7 +10,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/med-amine-nassim/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@m.nassim152) [![Personal website](https://img.shields.io/badge/Personal_Website-blue)](https://medaminenassim.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/med-amine-nassim/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@m.nassim152) [![Personal website](https://img.shields.io/badge/Personal_Website-blue)](https://medaminenassim.netlify.app/)
 
 
 
